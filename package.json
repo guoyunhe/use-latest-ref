@@ -83,5 +83,6 @@
     "doc": {
       "basename": "/use-latest-ref/"
     }
-  }
+  },
+  "version": "1.0.0"
 }
